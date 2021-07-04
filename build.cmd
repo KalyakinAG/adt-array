@@ -1,1 +1,1 @@
-.\tools\cfe2cf.exe f .\bin\QueryModel.cfe МодельЗапроса .\bin\QueryModel.cf
+.\tools\cfe2cf.exe f .\bin\adt-array.cfe АТДМассив .\bin\adt-array.cf
