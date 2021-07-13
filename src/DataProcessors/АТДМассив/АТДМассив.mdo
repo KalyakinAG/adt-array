@@ -10,4 +10,14 @@
     <value>Массив</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.АТДМассив.Form.Форма</defaultForm>
+  <forms uuid="28b4e496-346b-4eea-87ff-eb89b21f4855">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:DataProcessor>
