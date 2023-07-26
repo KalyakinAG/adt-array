@@ -17,7 +17,7 @@
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d458d394-e319-4bc0-bbfc-aedfffc0b166"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="3d02b347-c17a-4df3-bb53-f16c0003cecd"/>
   <namePrefix>АТД</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
@@ -30,6 +30,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.МПодсистемы</subsystems>
   <commonModules>CommonModule.РаботаСМассивом</commonModules>
   <dataProcessors>DataProcessor.АТДМассив</dataProcessors>
 </mdclass:Configuration>
