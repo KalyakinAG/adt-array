@@ -16,12 +16,12 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="4d17acc8-88f9-4378-b43e-7e31483bf0b3"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d458d394-e319-4bc0-bbfc-aedfffc0b166"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="3d02b347-c17a-4df3-bb53-f16c0003cecd"/>
-  <namePrefix>КА_</namePrefix>
+  <namePrefix>KASL</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   <languages uuid="9a0c855e-4a85-4a8e-841b-b8d308b8a403">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -32,5 +32,7 @@
   </languages>
   <subsystems>Subsystem.KASL</subsystems>
   <commonModules>CommonModule.РаботаСМассивом</commonModules>
+  <commonModules>CommonModule.РаботаСМножеством</commonModules>
+  <commonModules>CommonModule.РаботаСОчередью</commonModules>
   <dataProcessors>DataProcessor.АТДМассив</dataProcessors>
 </mdclass:Configuration>

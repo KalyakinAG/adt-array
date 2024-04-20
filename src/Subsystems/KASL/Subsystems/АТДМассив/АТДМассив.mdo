@@ -8,5 +8,7 @@
   <includeHelpInContents>true</includeHelpInContents>
   <content>DataProcessor.АТДМассив</content>
   <content>CommonModule.РаботаСМассивом</content>
+  <content>CommonModule.РаботаСМножеством</content>
+  <content>CommonModule.РаботаСОчередью</content>
   <parentSubsystem>Subsystem.KASL</parentSubsystem>
 </mdclass:Subsystem>
