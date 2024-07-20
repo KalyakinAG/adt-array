@@ -1,4 +1,10 @@
-InfoBases
+# IDE
+/.metadata/
+/.settings/
+/.obsidian/
+
+# Binary
 bin
+InfoBases
 tools
 examples
