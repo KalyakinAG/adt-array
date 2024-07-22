@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a5056d92-48c7-4cc4-83f5-5ba40c23a927">
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5e4c1e97-870f-493f-bfcb-36644c7e7dab">
   <producedTypes>
-    <objectType typeId="dc69c5d6-b26e-478c-8e1c-c9f97172f78b" valueTypeId="b0664a03-be3a-4c09-9e22-34d5915a1102"/>
-    <managerType typeId="5518336d-9f6f-4cc9-b5d3-03c5d90eff47" valueTypeId="67f53b1a-497c-4ca9-a683-63cd234f9323"/>
+    <objectType typeId="e1d049b2-7304-45d0-9dd4-73faf8ef1562" valueTypeId="6ff22d86-c105-4456-bfe2-5587ea0c9b46"/>
+    <managerType typeId="0c8c2541-7e45-4f12-a699-1ad4180cbe07" valueTypeId="83a29816-6b5d-43a8-ac22-a3adfe05c9a8"/>
   </producedTypes>
   <name>АТДМассив</name>
   <synonym>
@@ -11,7 +11,7 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.АТДМассив.Form.Форма</defaultForm>
-  <forms uuid="28b4e496-346b-4eea-87ff-eb89b21f4855">
+  <forms uuid="f69ecffb-a7f9-45c1-a3de-bd4f3e23aefe">
     <name>Форма</name>
     <synonym>
       <key>ru</key>
