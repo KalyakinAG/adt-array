@@ -1,1 +1,1 @@
-.\tools\cfe2cf.exe f .\bin\adt-array.cfe АТДМассив .\bin\adt-array.cf
+.\tools\cfe2cf.exe f .\bin\ADTArray.cfe АТДМассив .\bin\ADTArray.cf
