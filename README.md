@@ -1,6 +1,6 @@
 # Работа с массивом как с абстрактным типом данных на 1С
 
-[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/1/382631462.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=7004aa8e80a5459f9c5f779c06c27ccb&amp;pm=s) ![Версия](https://img.shields.io/badge/Версия_1С-8.3.24-yellow)
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/1/382631462.json)](https://openyellow.org/grid?data=top&repo=382631462) ![Версия](https://img.shields.io/badge/Версия_1С-8.3.24-yellow)
 
 Реализована библиотека по работе с массивом. В библиотеке доступны абстрактные функции: Отобрать (filter), НайтиЭлемент (find), Сортировать (sort), Отобразить (map), Преобразовать (reduce), Взять (pop), Положить (push), ДляКаждого (forEach).
 
