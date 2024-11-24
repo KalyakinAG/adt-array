@@ -23,11 +23,15 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Калякин Андрей</vendor>
-  <version>1.1.0.1</version>
+  <version>1.1.0.3</version>
   <vendorInformationAddress>
     <key>ru</key>
     <value>https://infostart.ru/profile/16301/</value>
   </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/KalyakinAG/adt-array</value>
+  </configurationInformationAddress>
   <languages uuid="9a0c855e-4a85-4a8e-841b-b8d308b8a403">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
