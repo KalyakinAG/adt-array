@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="74df3509-2af5-4251-8a82-6fff649eecaf">
+  <name>АТДМассив</name>
+  <synonym>
+    <key>ru</key>
+    <value>АТДМассив</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>DataProcessor.АТДМассив</content>
+  <content>CommonModule.РаботаСМассивом</content>
+  <content>CommonModule.РаботаСМножеством</content>
+  <content>CommonModule.РаботаСОчередью</content>
+  <content>CommonModule.РаботаСКоллекцией</content>
+  <parentSubsystem>Subsystem.KASL</parentSubsystem>
+</mdclass:Subsystem>
