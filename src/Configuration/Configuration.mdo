@@ -17,13 +17,13 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="4d17acc8-88f9-4378-b43e-7e31483bf0b3"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d458d394-e319-4bc0-bbfc-aedfffc0b166"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="3d02b347-c17a-4df3-bb53-f16c0003cecd"/>
-  <namePrefix>KASL</namePrefix>
+  <namePrefix>БКА_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Калякин Андрей</vendor>
-  <version>1.1.0.4</version>
+  <version>1.2.0.1</version>
   <vendorInformationAddress>
     <key>ru</key>
     <value>https://infostart.ru/profile/16301/</value>
@@ -40,7 +40,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.KASL</subsystems>
+  <subsystems>Subsystem.АТДМассив</subsystems>
   <commonModules>CommonModule.РаботаСКоллекцией</commonModules>
   <commonModules>CommonModule.РаботаСМассивом</commonModules>
   <commonModules>CommonModule.РаботаСОчередью</commonModules>

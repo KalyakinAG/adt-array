@@ -11,5 +11,4 @@
   <content>CommonModule.РаботаСМножеством</content>
   <content>CommonModule.РаботаСОчередью</content>
   <content>CommonModule.РаботаСКоллекцией</content>
-  <parentSubsystem>Subsystem.KASL</parentSubsystem>
 </mdclass:Subsystem>
